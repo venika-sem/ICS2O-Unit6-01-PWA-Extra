@@ -4,6 +4,16 @@
 */
 
 'use strict'
+
+/**
+ * Check servie worker.
+ */
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register("/ICS2O-Unit6-01-PWA-Extra/sw.js", {
+    scope: "/ICS2O-Unit6-01-PWA-Extra/",
+  })
+}
+
 /**
  * This function calculates the volume of a sphere.
  */

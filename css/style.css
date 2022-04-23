@@ -8,20 +8,17 @@ body {
 }
 
 h2 {
-  color: #ff1a1a;
   font: 60pt "Times New Roman", Times, serif;
   font-weight: bold;
   line-height: 20pt;
 }
 
 p {
-  color: #986a06;
   font-family: "Times New Roman", Times, serif;
   font-size: 1.5rem;
 }
 
 h3 {
-  color: #6f1515;
   font: 15pt "Times New Roman", Times, serif;
   font-weight: bold;
   line-height: 16pt;
